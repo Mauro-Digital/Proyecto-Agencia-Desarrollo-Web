@@ -108,4 +108,19 @@ body{
     color: var(--color-hover-dark);
 }
 
+/* Cambiar color del Logo en modo oscuro.
+/* MOBILE */
+ 
+.menu-mobile{
+    background-color: var(--color-banner);
+}
+ 
+.mobile-btn__wrap{
+    background-color: var(--color-border-news);
+}
+ 
+.mobile-btn__line{
+    background-color: var(--color-text-btn);
+}
+
 
