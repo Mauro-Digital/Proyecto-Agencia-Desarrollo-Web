@@ -1,7 +1,7 @@
 /*VARIABLES*/
 :root{
     --mx-width: 1320px;
-    --color-body: rgba(176, 217, 224, 0.479);
+    --color-body: rgba(104, 148, 153, 0.479);
     --color-text-body: #525260;
     --color-primary: #3618b9;
     --color-secondary: #fff;
@@ -13,7 +13,7 @@
     --color-bg-services: #f8f8f8;
     --color-bg-projects: #ecf2f6;
     --color-bg-dark: #27272E;
-    --color-text-description: #99A1AA;
+    --color-text-description: #797f86;
     --color-hover-dark: #303035;
     --color-borders: #e3e6e9;    
 }
